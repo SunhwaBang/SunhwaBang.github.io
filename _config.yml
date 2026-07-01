@@ -23,7 +23,7 @@ repository               : "SunhwaBang/SunhwaBang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile_bang.jpg"
+  avatar           : "profile_bang.jpg"
   name             : "Sunhwa Bang"
   pronouns         : # example: "she/her"  
   bio              : "PhD_isotope geochemistry"
