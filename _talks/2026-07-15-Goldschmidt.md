@@ -10,5 +10,5 @@ location: "Montreal, Canada"
 ---
 ## Bibliography from poster
 
-1. 참고문헌1...
-2. 참고문헌2...
+1. Ref1
+2. Ref2
