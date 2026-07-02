@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in research on the isotope geochemistry of sediment and sedimentary rocks, as well as clay mineral analysis, and I am constantly developing MC-ICPMS and LA-ICPMS analytical techniques. I am currently working as a postdoctoral researcher at the Research Institute of Molecular Alchemy at Gyeongsang National University. 
-![Fall 2025, at the beautiful Pyoseon Beach on Jeju Island](/images/2025_Jeju.jpg)
+I am interested in isotope geochemistry of sediments and sedimentary rocks, as well as clay mineral analysis. I am also continuously developing analytical techniques using MC-ICP-MS and LA-ICP-MS.
 
-I check both my GNU and SNU email accounts, so please feel free to contact me.
-sunbang90@gnu.ac.kr
+Currently, I am working as a postdoctoral researcher at the Research Institute of Molecular Alchemy, Gyeongsang National University.  
+
+Please feel free to reach out to me via either of the email addresses below — I check both regularly.
+
+sunbang90@gnu.ac.kr  
 diemist4@snu.ac.kr
+
+![Fall 2025, at the beautiful Pyoseon Beach on Jeju Island](/images/2025_Jeju.jpg)
