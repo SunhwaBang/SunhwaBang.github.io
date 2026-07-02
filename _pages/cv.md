@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-[Download CV as PDF](/files/Sunhwa Bang_CV_260702_updated.pdf)
+[Download CV as PDF](/files/Sunhwa_Bang_CV_260702.pdf)
 
-<embed src="/files/CV_SunhwaBang.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="/files/Sunhwa_Bang_CV_260702.pdf" type="application/pdf" width="100%" height="800px" />
