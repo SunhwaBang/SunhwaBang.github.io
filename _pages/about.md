@@ -6,13 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am interested in isotope geochemistry of sediments and sedimentary rocks, as well as clay mineral analysis. I am also continuously developing analytical techniques using MC-ICP-MS and LA-ICP-MS.
+I am a researcher with a broad interest in paleoclimatology and paleoenvironmental reconstruction.  
+My research focuses on isotope geochemistry of sediments and sedimentary rocks, and clay mineral analysis, which I apply as proxies to understand how the ocean and atmosphere have evolved over geological timescales.  
+I am also continuously developing analytical techniques using MC-ICP-MS and LA-ICP-MS to refine these reconstructions.
 
 Currently, I am working as a postdoctoral researcher at the Research Institute of Molecular Alchemy, Gyeongsang National University.  
-
-Please feel free to reach out to me via either of the email addresses below — I check both regularly.
-
+Please feel free to reach out to me via either of the email addresses below — I check both regularly.  
 sunbang90@gnu.ac.kr  
 diemist4@snu.ac.kr
 
