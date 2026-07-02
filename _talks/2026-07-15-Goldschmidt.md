@@ -4,10 +4,38 @@ collection: talks
 type: "Poster"
 permalink: /talks/2026-07-15-Goldschmidt
 venue: "Goldschmidt 2026"
-date: 2026-02-26
+date: 2026-07-15
 location: "Montreal, Canada"
 ---
 ## Bibliography from poster
 
-1. Ref1
-2. Ref2
+1.	Feng, X., Zou, J., Shi, X., Yao, Z., Dong, Z., Dong, J., Wu, Y., Dou, R., Jin, H., & Zhu, A. (2024). Abrupt enhanced Pacific warm water intrusion into the Sea of Okhotsk since the early Holocene. Quaternary Science Reviews, 345, 109026. https://doi.org/10.1016/j.quascirev.2024.109026
+2.	Dou, R., Zou, J., Dong, Z., Shi, X., Wu, Y., Zhu, A., Feng, X., Zou, X., Gorbarenko, S. A., & Vasilenko, Y. P. (2025). The impacts of Tsushima Warm Current and sea-ice on hydrodynamics in the Sea of Japan during the last deglaciation. Palaeogeography, Palaeoclimatology, Palaeoecology, 662, 112776. https://doi.org/10.1016/j.palaeo.2025.112776
+3.	Kim, S., An, H., Kim, C., & Yang, K. (2023). Mineralogy, geochemistry, and sources of clay minerals in sediments of the Ulleung Basin, East Sea (Sea of Japan). Geosciences Journal, 27(4), 385-397. https://doi.org/10.1007/s12303-023-0011-z
+4.	Underwood, M. B., Guo, J., Saito, S., & Kubo, Y. (2013). Data report: Clay mineral assemblages in the Shikoku Basin, NanTroSEIZE subduction inputs, IODP Sites C0011 and C0012. Proceedings of the Integrated Ocean Drilling Program
+5.	Wang, J., Li, A., Xu, K., Zheng, X., & Huang, J. (2015). Clay mineral and grain size studies of sediment provenances and paleoenvironment evolution in the middle Okinawa Trough since 17 ka. Marine Geology, 366, 49-61. https://doi.org/10.1016/j.margeo.2015.04.007
+6.	Yu, Z., Tang, X., Colin, C., Wilson, D. J., Zhou, X., Song, L., Chang, F., Zhang, S., Bassinot, F., & Wan, S. (2023). Millennial‐scale precipitation variability in the Indo‐Pacific region over the last 40 Kyr. Geophysical Research Letters, 50(2), e2022GL101646. https://doi.org/10.1029/2022GL101646
+7.	Itou, M., Oba, T., & Kato, Y. (2014). Obliquity control on summer subtropical SST in the Kuroshio Extension region during the past 180,000-year. Frontier Research on Earth Evolution, 2, 1-7. 
+8.	Gray, W. R., Rae, J. W., Wills, R. C., Shevenell, A. E., Taylor, B., Burke, A., Foster, G. L., & Lear, C. H. (2018). Deglacial upwelling, productivity and CO2 outgassing in the North Pacific Ocean. Nature Geoscience, 11(5), 340-344. https://doi.org/10.1038/s41561-018-0108-6
+9.	Kubota, K., Yokoyama, Y., Ishikawa, T., Sagawa, T., Ikehara, M., & Yamazaki, T. (2019). Equatorial Pacific seawater p CO2 variability since the last glacial period. Scientific reports, 9(1), 13814. https://doi.org/10.1038/s41598-019-49739-0
+10.	Lauvset, S. K., Lange, N., Tanhua, T., Bittig, H. C., Olsen, A., Kozyr, A., Álvarez, M., Azetsu-Scott, K., Brown, P. J., & Carter, B. R. (2024). The annual update GLODAPv2. 2023: the global interior ocean biogeochemical data product. Earth System Science Data, 16(4), 2047-2072. https://doi.org/10.5194/essd-16-2047-2024
+11. Olsen, A., Lange, N., Key, R. M., Tanhua, T., Álvarez, M., Becker, S., Bittig, H. C., Carter, B. R., Cotrim da Cunha, L., & Feely, R. A. (2019). GLODAPv2. 2019–an update of GLODAPv2. Earth System Science Data, 11(3), 1437-1461. https://doi.org/10.5194/essd-11-1437-2019
+12. Olsen, A., Lange, N., Key, R. M., Tanhua, T., Bittig, H. C., Kozyr, A., Álvarez, M., Azetsu-Scott, K., Becker, S., & Brown, P. J. (2020). An updated version of the global interior ocean biogeochemical data product, GLODAPv2. 2020. Earth System Science Data, 12(4), 3653-3678. https://doi.org/10.5194/essd-12-3653-2020
+13. Kanamitsu, M., Ebisuzaki, W., Woollen, J., Yang, S.-K., Hnilo, J. J., Fiorino, M., & Potter, G. L. (2002). Ncep–doe amip-ii reanalysis (r-2). Bulletin of the American Meteorological Society, 83(11), 1631-1644. https://doi.org/10.1175/BAMS-83-11-1631
+14. Wang, D., Roberts, A. P., Rohling, E. J., Yao, W., Zhong, Y., Yao, Z., Lu, Y., & Liu, Q. (2023). Equatorial Pacific dust fertilization and source weathering influences on Eocene to Miocene global CO2 decline. Communications Earth & Environment, 4(1), 37. https://doi.org/10.1038/s43247-023-00701-x
+15. Watanabe, Y. and F. Nishibori. 2012. Carbon Dioxide, Hydrographic, and Chemical Data Obtained During the R/V Hakurei Maru-II Cruise NH99 in the Pacific Ocean (4 August – 13 October, 1999). Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee. https://doi.org/10.3334/CDIAC/OTG.PACIFICA_49HG19990804
+16. Watanabe, S. and M. Wakita. 2012. Carbon Dioxide, Hydrographic, and Chemical Data Obtained During the R/V Mirai Cruise MR04-07 in the Pacific Ocean (17 November – 9 December, 2004). Carbon Dioxide Information Analysis Center, Oak Ridge National Laboratory, U.S. Department of Energy, Oak Ridge, Tennessee. https://doi.org/10.3334/CDIAC/OTG.PACIFICA_49NZ20041117
+17. Seo, I., Lee, Y., Yoo, C. M., & Hyeong, K. (2018). Migration of the Kuroshio Extension in the northwest Pacific since the last glacial maximum. Palaeogeography, Palaeoclimatology, Palaeoecology, 496, 323-331. https://doi.org/10.1016/j.palaeo.2018.01.048
+18. Foster, G. L. (2008). Seawater pH, pCO2 and [CO2− 3] variations in the Caribbean Sea over the last 130 kyr: A boron isotope and B/Ca study of planktic foraminifera. Earth and Planetary Science Letters, 271(1-4), 254-266. https://doi.org/10.1016/j.epsl.2008.04.015
+19. Biscaye, P. E. (1965). Mineralogy and sedimentation of recent deep-sea clay in the Atlantic Ocean and adjacent seas and oceans. Geological Society of America Bulletin, 76(7), 803-832. https://doi.org/10.1130/0016-7606(1965)76[803:MASORD]2.0.CO;2
+20. Paterson, G. A., & Heslop, D. (2015). New methods for unmixing sediment grain size data. Geochemistry, Geophysics, Geosystems, 16(12), 4494-4506. https://doi.org/10.1002/2015GC006070
+21. Lee, Y., 2015. Paleoenvironment reconstruction of Kuroshio Extension and Central Equatorial Pacific using planktic foraminifera assemblages since the last glacial maximum (LGM). M.S. thesis, Kyungpook National University, Daegu, Republic of Korea.
+22. Shin, J. Y., Yu, Y., Seo, I., Hyeong, K., Lim, D., & Kim, W. (2018). Magnetic properties of deep‐sea sediments from the North Pacific: A proxy of glacial deep‐water ventilation. Geochemistry, Geophysics, Geosystems, 19(11), 4433-4443. https://doi.org/10.1029/2018GC007735
+23. Hanebuth, T., Stattegger, K., & Grootes, P. M. (2000). Rapid flooding of the Sunda Shelf: a late-glacial sea-level record. Science, 288(5468), 1033-1035. https://doi.org/10.1126/science.288.5468.1033
+24. Geyh, M., Streif, H., & Kudrass, H.-R. (1979). Sea-level changes during the late Pleistocene and Holocene in the Strait of Malacca. Nature, 278(5703), 441-443. https://doi.org/10.1038/278441a0
+25. Liu, J. P., Milliman, J. D., Gao, S., & Cheng, P. (2004). Holocene development of the Yellow River's subaqueous delta, North Yellow Sea. Marine Geology, 209(1-4), 45-67. https://doi.org/10.1016/j.margeo.2004.01.002
+26. Dykoski, C. A., Edwards, R. L., Cheng, H., Yuan, D., Cai, Y., Zhang, M., Lin, Y., Qing, J., An, Z., & Revenaugh, J. (2005). A high-resolution, absolute-dated Holocene and deglacial Asian monsoon record from Dongge Cave, China. Earth and Planetary Science Letters, 233(1-2), 71-86. https://doi.org/10.1016/j.epsl.2005.01.036
+27. Wang, Y.-J., Cheng, H., Edwards, R. L., An, Z., Wu, J., Shen, C.-C., & Dorale, J. A. (2001). A high-resolution absolute-dated late Pleistocene monsoon record from Hulu Cave, China. Science, 294(5550), 2345-2348. https://doi.org/10.1126/science.1064618
+28. Stevens, T., Armitage, S. J., Lu, H., & Thomas, D. S. (2007). Examining the potential of high sampling resolution OSL dating of Chinese loess. Quaternary Geochronology, 2(1-4), 15-22. https://doi.org/10.1016/j.quageo.2006.05.005
+29. Újvári, G., Klötzli, U., Stevens, T., Svensson, A., Ludwig, P., Vennemann, T., Gier, S., Horschinegg, M., Palcsu, L., & Hippler, D. (2022). Greenland ice core record of last glacial dust sources and atmospheric circulation. Journal of Geophysical Research: Atmospheres, 127(15), e2022JD036597. https://doi.org/10.1029/2022JD036597
+
