@@ -1,4 +1,3 @@
-markdown
 ---
 title: "Linking East Asian Dust Flux to Surface Ocean Carbonate Chemistry in the Kuroshio-Oyashio Extension: A 23-kyr Record of Clay Mineralogy and Boron Isotopes"
 collection: talks
