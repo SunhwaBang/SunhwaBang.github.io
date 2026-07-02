@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-fall-teaching
 venue: "Seoul National University, School of Earth and Environmental Sciences"
-date: 2015-09-01~ and 2019-03-01~
+date: 2015-09-01~
 location: "Seoul, South Korea"
 ---
 
