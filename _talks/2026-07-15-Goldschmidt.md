@@ -7,6 +7,16 @@ venue: "Goldschmidt 2026"
 date: 2026-07-15
 location: "Montreal, Canada"
 ---
+## Acknowledgement
+
+This research was supported by the National Research Foundation of Korea (NRF) funded by the Korean government (Nos. 2017R1A2B4005349, 2020R1A2C100838711, and 2022R1A5A1085103), by the Learning & Academic research institution for Master's·PhD students and Postdocs (LAMP) Program of the NRF funded by the Ministry of Education (No. RS-2023-00301974), and by the Post-Doc Growth Collaborative Research Program of the NRF (No. RS-2024-00462073).
+
+[Click here to get the paper when it comes out!](https://docs.google.com/forms/d/e/1FAIpQLSeBnSAutGNu2VMVRZ4hgOkYJeaM2pArCKZGSwEDUPY3OQbM0Q/viewform)
+
+[Details on conference website](https://conf.goldschmidt.info/goldschmidt/2026/13/papers/viewonly.cgi?password=677081&username=35975)
+
+<embed src="/files/Bang_35975_POSTER.pdf" type="application/pdf" width="100%" height="600px" />
+
 ## Bibliography from poster
 
 1. Feng, X., Zou, J., Shi, X., Yao, Z., Dong, Z., Dong, J., Wu, Y., Dou, R., Jin, H., & Zhu, A. (2024). Abrupt enhanced Pacific warm water intrusion into the Sea of Okhotsk since the early Holocene. Quaternary Science Reviews, 345, 109026. [https://doi.org/10.1016/j.quascirev.2024.109026](https://doi.org/10.1016/j.quascirev.2024.109026)
